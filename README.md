@@ -24,9 +24,11 @@
   
   <img align="center" alt="weldon-Kafka" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
   
-  <img align="center" alt="weldon-Kafka" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="weldon-Mongodb" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   
   <img align="center" alt="weldon-Kafka" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   
-  <img align="center" alt="weldon-Kafka" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="weldon-Mysql" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  
+  <img align="center" alt="weldon-Jenkins" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
   </div>

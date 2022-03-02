@@ -1,4 +1,4 @@
-### Oi, Meu nome é Weldon Cardoso
+### Oi, Meu nome é Weldon Cardoso.
 
   ### Sobre
   

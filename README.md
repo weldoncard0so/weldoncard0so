@@ -1,16 +1,32 @@
-### Hi there 👋
+### Oi, Meu nome é Weldon Cardoso
 
-<!--
-**weldoncard0so/weldoncard0so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Sobre
+  
+  🤖 Desenvolvedor back-end Java.
+  
+  👨‍🎓 Formando em análise e desenvolvimento de sistemas.
+  
+  📚 Kafka, Sistemas Distribuidos, Sistemas baseados em eventos.
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="htttps://github/weldoncard0so">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weldoncard0so&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldoncard0so&theme=dracula"/>
+</div>
+  
+  #
+  
+<div>
+  <img align="center" alt="weldon-Java" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  
+  <img align="center" alt="weldon-Spring" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  
+  <img align="center" alt="weldon-Kafka" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+  
+  <img align="center" alt="weldon-Kafka" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  
+  <img align="center" alt="weldon-Kafka" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+  
+  <img align="center" alt="weldon-Kafka" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  </div>
